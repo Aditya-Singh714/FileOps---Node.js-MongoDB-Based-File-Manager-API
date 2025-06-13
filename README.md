@@ -27,7 +27,7 @@ This is a backend project built using **Node.js**, **Express**, and **MongoDB** 
 
 ## 🗂️ Folder Structure
 
-project_1/
+FileOps---Node.js-MongoDB-Based-File-Manager-API/
 ├── routes/
 │ └── files.js
 ├── models/
