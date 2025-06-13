@@ -1,0 +1,9 @@
+Node.js is a JavaScript runtime popular for building APIs, real-time applications, and microservices. It commonly uses frameworks like Express, Koa, and NestJS. The learning curve is moderate.
+
+Python is a general-purpose programming language widely used for web applications, data science, and automation. Popular frameworks include Django, Flask, and FastAPI. Python is considered easy to learn.
+
+Java is a compiled language often chosen for enterprise applications, Android backend development, and microservices. Key frameworks are Spring, Hibernate, and Struts. The learning curve is steep.
+
+Ruby is a dynamic language best known for web development and rapid prototyping. Rails and Sinatra are its most popular frameworks. Ruby is easy to learn.
+
+PHP is a scripting language mostly used for websites and content management systems. Frameworks like Laravel, Symfony, and CodeIgniter are common choices. PHP also has an easy learning curve.

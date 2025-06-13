@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>
+    <%= filename %>
+  </title>
+  <script src="https://cdn.tailwindcss.com"></script>
+
+<body class="bg-zinc-900 min-h-screen flex items-center justify-center">
+  <div class="bg-zinc-800 shadow-lg rounded-lg p-8 max-w-2xl w-full border border-zinc-700">
+    <h1 class="text-2xl font-bold text-zinc-100 mb-4">📄 <%= filename %>
+    </h1>
+
+    <div class="bg-zinc-900 p-4 rounded overflow-x-auto border border-zinc-700">
+      <pre class="whitespace-pre-wrap text-zinc-300 text-sm"><%= filedata %></pre>
+    </div>
+
+    <a href="/" class="inline-block mt-6 text-blue-400 hover:underline">← Back to Home</a>
+  </div>
+</body>
+
+</html>

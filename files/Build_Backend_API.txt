@@ -1,0 +1,11 @@
+Description:
+- Design RESTful endpoints for CRUD operations
+- Connect to MongoDB using Mongoose
+- Implement user authentication with JWT
+- Write unit tests for API routes
+
+Status: In Progress
+Priority: High
+
+Notes:
+Remember to handle errors properly and validate all input data. Also, document the API using Swagger or similar tool.
